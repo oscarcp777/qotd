@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="Notebook" name="qotd.QuoteTests" tests="1" time="0.662" timestamp="2013-03-30T20:56:38">
+  <properties />
+  <testcase classname="qotd.QuoteTests" name="testSomething" time="0.655">
+    <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at qotd.QuoteTests.testSomething(QuoteTests.groovy:15)
+</failure>
+  </testcase>
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>
