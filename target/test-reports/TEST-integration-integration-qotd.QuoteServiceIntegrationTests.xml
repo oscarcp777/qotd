@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="Notebook" name="qotd.QuoteServiceIntegrationTests" tests="1" time="0.19" timestamp="2013-03-30T20:56:51">
-  <properties />
-  <testcase classname="qotd.QuoteServiceIntegrationTests" name="testStaticQuote" time="0.187" />
-  <system-out><![CDATA[--Output from testStaticQuote--
-]]></system-out>
-  <system-err><![CDATA[--Output from testStaticQuote--
-]]></system-err>
-</testsuite>
